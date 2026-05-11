@@ -5,3 +5,4 @@ https://github.com/1olegsvetly/work/blob/main/public_html.zip
 https://djekxa.org.ru/  отдает пустую страницу
 2. админка:
 https://djekxa.org.ru/admin/ Дашборд отдает пустую страницу
+3/ темы сайта не работают. Проверить и исправить ршибки.

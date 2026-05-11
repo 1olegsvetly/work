@@ -2,7 +2,10 @@ https://github.com/1olegsvetly/work/blob/main/public_html.zip
 Скачай и изучи проект.
 Отвечай по русски.
 1. При нажатии на товар на главной, в каталоге, он откывается во всплывающем окне, но пишет "Ошибка загрузки товара" - во всех шаблонах. В некоторых шаблонах всплывающее окно не открывается - нужно сделать, что бы всплывающее окно с товаром открывалось везде.
-
+Настроить шаблоны, что бы отображались точно вот так:
+https://github.com/1olegsvetly/work/blob/main/accsmarket.com.jpg
+https://github.com/1olegsvetly/work/blob/main/noves-shop.com.jpg
+https://github.com/1olegsvetly/work/blob/main/dark.shopping.jpg
 2.  Блог - статьи пропали - было 101 статья
 
 3. Проверь все визуально и исправь все ошибки с шаблонами.

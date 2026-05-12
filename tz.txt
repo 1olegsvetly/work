@@ -6,9 +6,7 @@ https://github.com/1olegsvetly/work/blob/main/public_html.zip
 "Хиты" на главной отображаются карточкой - исправь на список (для шаблона accsmarket).
 На главной две кнопки купить, убери одну кнопку, сделай отобраение товаров как в референсе
 2. в каталоге /catalog, в категории /category/google/ - отображаются не все товары. Сделай кнопку "Загрузить еще"
-3. шаблоны "dark.shopping" "noves-shop.com" тоже сделай точно по референсу.
-https://github.com/1olegsvetly/work/blob/main/noves-shop.com.jpg
-https://github.com/1olegsvetly/work/blob/main/dark.shopping.jpg
+
 4. При выборе способ платежа "криптовалюта", "Yoomoney" или "Демо" - сама переключается темная тема "Тёмный Про"
 5.  Просмотреть и исправить друние ошибки.Нормализовать цвет. 
 6. Проверь все визуально, что бы все работало.
